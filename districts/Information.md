@@ -1,59 +1,57 @@
 # PickUp Information
 
-## Português
+### Português
 
-- Distrito
-  - e
+  - Distrito
+   - e
+  - Cidade/Localidade
+   - 
+  - Local
+   - 
 
-- Cidade/Localidade
-  - 
+  - Horário de Recolha:
+   -
 
-- Local
-  - 
-
-- Horário de Recolha:
-  -
-
-- Data Limite para recolha:
-  - 02/03/2022
+  - Data Limite para recolha:
+   - 02/03/2022
  
-- Artigos a doar:
-  -
+  - Artigos a doar:
+    -
 
-- Contacto mais info
-  -
+  - Contacto mais info
+    -
 
-- Entidade que organiza
-  -
+  - Entidade que organiza
+    -
   
-- Link para anúncio
-  -
+  - Link para anúncio
+   -
 
-## English
+### English
 
-- District
-  - e
+  - District
+   - e
 
-- City
-  - 
+  - City
+    - 
 
-- Address
-  - 
+  - Address
+    - 
 
-- Times:
-  -
+  - Times:
+    -
 
-- Deadline:
-  - 02/03/2022
+  - Deadline:
+   - 02/03/2022
  
-- What to donate:
-  -
+  - What to donate:
+   -
 
-- Contact for more Info
-  -
+  - Contact for more Info
+   -
 
-- Entity that organizes
-  -
+  - Entity that organizes
+    -
   
-- Anouncement URL
-  -
+  - Anouncement URL
+    -
